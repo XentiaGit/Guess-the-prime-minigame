@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\bin\Debug\Guess The Prime.exe.config
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\bin\Debug\Guess The Prime.exe
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\bin\Debug\Guess The Prime.pdb
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\obj\Debug\Guess The Prime.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\obj\Debug\Guess_The_Prime.playing_field.resources
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\obj\Debug\Guess_The_Prime.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\obj\Debug\Guess The Prime.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\obj\Debug\Guess The Prime.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\obj\Debug\Guess The Prime.exe
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\obj\Debug\Guess The Prime.pdb
+C:\Users\ADMIN\source\repos\Guess The Prime\Guess The Prime\obj\Debug\Guess_The_Prime.result_form.resources
